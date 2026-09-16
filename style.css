@@ -1,4 +1,16 @@
 h1 {  
-color:aqua;
-background-color:bisque;
+color:black;
+font-size: 40px;
+font-weight: bolder;
+text-align:center;
+
+}
+
+
+.image {
+    display:block;
+    margin: 0 auto;
+    border-radius:20px;
+    padding-top: 20px;
+
 }
